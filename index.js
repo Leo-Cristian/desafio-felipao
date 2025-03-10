@@ -1,7 +1,7 @@
 // Definição das variáveis
 
 let nome = "GuerreiroEu"; //herói desejado
-let xp = 900; // XP desejado
+let xp = 1000; // XP desejado
 let nivel = "";
 
 // nível do herói
